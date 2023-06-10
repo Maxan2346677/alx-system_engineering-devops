@@ -1,1 +1,1 @@
-max readme on shell permission
+shell pemissions
